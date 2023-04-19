@@ -1,0 +1,27 @@
+{
+  "name": "randommsg-show",
+  "version": "1.0.0",
+  "description": "Show Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidinci7/randommsg-show.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "David R.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidinci7/randommsg-show/issues"
+  },
+  "homepage": "https://github.com/davidinci7/randommsg-show#readme",
+  "bin": {
+    "randommsg-show": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
